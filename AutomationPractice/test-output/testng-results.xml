@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-22T14:57:04 BDT" name="Test-Suite" finished-at="2021-05-22T14:58:45 BDT" duration-ms="101678">
+    <groups>
+    </groups>
+    <test started-at="2021-05-22T14:57:04 BDT" name="Test" finished-at="2021-05-22T14:58:45 BDT" duration-ms="101678">
+      <class name="com.automation.UserTwoRegistrationAndBuy">
+        <test-method signature="registrationAndBuy()[pri:0, instance:com.automation.UserTwoRegistrationAndBuy@14028087]" started-at="2021-05-22T14:57:50 BDT" name="registrationAndBuy" finished-at="2021-05-22T14:58:45 BDT" duration-ms="55454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationAndBuy -->
+      </class> <!-- com.automation.UserTwoRegistrationAndBuy -->
+      <class name="com.automation.UserOneRegistration">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:com.automation.UserOneRegistration@5386659f]" started-at="2021-05-22T14:57:02 BDT" name="setDriver" finished-at="2021-05-22T14:57:04 BDT" duration-ms="1472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="registration()[pri:0, instance:com.automation.UserOneRegistration@5386659f]" started-at="2021-05-22T14:57:04 BDT" name="registration" finished-at="2021-05-22T14:57:50 BDT" duration-ms="46203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.automation.UserOneRegistration@5386659f]" started-at="2021-05-22T14:58:45 BDT" name="close" finished-at="2021-05-22T14:58:45 BDT" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.automation.UserOneRegistration -->
+    </test> <!-- Test -->
+  </suite> <!-- Test-Suite -->
+</testng-results>
