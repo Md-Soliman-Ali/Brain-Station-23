@@ -16,4 +16,4 @@
 
 8. Install SelectorsHub for easy & perfect Xpath.
 
-9. Import AutomationPractice Project - > TestNg.xml -> Run As TestNG Suite
+9. Import AutomationPractice Project - > TestNg.xml -> Run As -> TestNG Suite
