@@ -17,3 +17,5 @@
 8. Install SelectorsHub for easy & perfect Xpath.
 
 9. Import AutomationPractice Project - > TestNg.xml -> Run As -> TestNG Suite
+
+10. You Can Also See The Output Results & Report In The test-output Folder.
