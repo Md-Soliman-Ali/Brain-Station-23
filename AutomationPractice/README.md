@@ -1,6 +1,6 @@
 # Automation
 
-1. To do the Selenium Automation Testing first, we need to install JAVA. Booth Java Development Kit & Java Runtime Environment. After that, set up Java Environment using our System Properties - Advanced - Environment Variables. Set up Java Home & PATH. After that check, our environment is ready or not. Go to the cmd & type ( java -version ) & ( javac -version )  
+1. To do the Selenium Automation Testing first, we need to install JAVA. Both Java Development Kit & Java Runtime Environment. After that, set up Java Environment using our System Properties - Advanced - Environment Variables. Set up Java Home & PATH. After that check, our environment is ready or not. Go to the cmd & type ( java -version ) & ( javac -version )  
 
 2. Second, we need to install apache-maven. Set up Maven Home & PATH. Check our environment is ready or not. Go to the cmd & type ( mvn -version ) 
 
