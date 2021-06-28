@@ -19,3 +19,13 @@
 9. Import AutomationPractice Project - > TestNg.xml -> Run As -> TestNG Suite
 
 10. You Can Also See The Output Results & Report In The test-output Folder.
+
+
+# Question
+
+Use Selenium WebDriver with java to Automate the following scenarios:
+1. Visit the given URL: http://automationpractice.com/index.php
+2. Register with two unique users providing all the mandatory and optional fields.
+3. Add to cart two different items and complete the checkout process.
+4. Complete payment method for the above items (dresses).
+5. Add at least 2 verifications and validations.
